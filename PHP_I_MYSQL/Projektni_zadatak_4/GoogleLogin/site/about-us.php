@@ -1,0 +1,15 @@
+<?php 
+	print '
+	<h1>About Us</h1>
+	<video width="50%" controls poster="img/cover.jpg" >
+	  <source src="video/reklama.mp4" type="video/mp4">
+	  Your browser does not support HTML5 video.
+	</video>
+	<p>Dobro došli na portale tvrtke Telegram Media Grupa d.o.o. (u daljnjem tekstu TMG). TMG omogućuje vam korištenje usluga i sadržaja svojih portala koje je regulirano ovim Uvjetima korištenja. Uvjeti korištenja primjenjuju se na sve sadržaje i usluge na domenama i poddomenama u vlasništvu, suvlasništvu ili partnerstvu s TMG (u daljnjem tekstu Usluge i Portali). Korištenjem Usluga i Portala smatra se da su korisnici u svakom trenutku upoznati s ovim Uvjetima korištenja, te da ih u potpunosti razumiju i prihvaćaju, uključujući i odredbe u vezi s kolačićima.</p>
+	<p>E-mail servis Besplatni e-mail servis omogućava primanje i slanje e-mail poruka. TMG osigurava besplatno korištenje e-mail adrese s domenom @net.hr i 20 MB diskovnog prostora za poruke korisnika, te čitanje i spremanje elektroničke pošte s drugih korisničkih računa putem web-sučelja. TMG ne preuzima odgovornost za eventualne probleme u radu besplatnog e-mail servisa. TMG korisnicima besplatnog e-mail servisa ne pruža telefonsku podršku. Eventualne probleme u radu, prijedloge i komentare moguće je prijaviti isključivo preko e-maila na adrese: freemail@portal.net.hr. Korisnički račun otvoren na e-mail servisu kojem nije pristupano više od 100 dana server će automatski bespovratno izbrisati. Usluga proširenja poštanskog sandučića omogućena je svim korisnicima besplatnog e-mail servisa. Usluga omogućava proširenje kapaciteta poštanskog sandučića na 2 GB, a aktivira se slanjem SMS poruke s dodatnom vrijednošću. Cijena poruke, kao i broj servisa na koji je potrebno poslati poruku definirani su na stranicama postavki korisničkog računa.</p>
+	<p>Chat je besplatna usluga koja omogućuje komunikaciju među posjetiteljima i reguliran je ovim Uvjetima korištenja te Pravilima lijepog ponašanja na chatu na adresi: http://chat.net.hr/terms-of-service.</p>
+	<p>Forum je besplatna usluga koja omogućuje komunikaciju među posjetiteljima i reguliran je ovim Uvjetima korištenja te Pravilima lijepog ponašanja na forumu na adresi: http://forum.net.hr/content/pravilaponasanja.aspx. Korisnički račun koji nije aktiviran više od 100 dana bit će automatski izbrisan.</p>
+	<p>Trosjed je besplatna usluga koja omogućuje komunikaciju među posjetiteljima i reguliran je ovim Uvjetima korištenja te pravilima lijepog ponašanja na Trosjedu na adresi: http://trosjed.net.hr/pravila/.</p>
+	<p>Registracijom za Usluge korisnik dobiva podatke o korisničkom računu – korisničko ime i lozinku. Korisnik je dužan čuvati podatke o korisničkom računu, te je u potpunosti odgovoran za svu štetu nastalu neautoriziranim korištenjem svog korisničkog računa. Završetkom registracije korisnik prihvaća odgovornost za sve aktivnosti uzrokovane uporabom Usluga. TMG nema pristup korisničkim lozinkama, tajnim pitanjima i odgovorima. Radi identifikacije prilikom pružanja pomoći korisnicima, TMG može zatražiti e-mail adresu ili broj telefona korisnika.</p>	
+	';
+?>
